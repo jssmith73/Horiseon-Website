@@ -21,6 +21,14 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 
+## Photos
+
+
+![Screenshot 2023-07-23 134639](https://github.com/jssmith73/Week-1-Challenge/assets/135924397/e0fbaade-c3b3-44d8-905f-a194650be176)
+
+![Screenshot 2023-07-23 134730](https://github.com/jssmith73/Week-1-Challenge/assets/135924397/eb2db73e-c309-4743-8849-432f9135b044)
+
+
 ## Usage
 
 
@@ -63,6 +71,9 @@ SOFTWARE.
 
 ## Features
 
+
+
+C:\Users\jman1\OneDrive\Pictures\Screenshots\Screenshot 2023-07-23 134639.png
 
 ## How to Contribute
 
