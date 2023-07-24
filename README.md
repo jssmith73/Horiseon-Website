@@ -1,8 +1,9 @@
 # WEEK-1-CHALLENGE
 
+## Link https://jssmith73.github.io/Week-1-Challenge/
+
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 This is my first week's challenge as part of the UNC Chapel-Hill Coding Bootcamp. A big first step in my new professional development.
 I built this site to show my development base off of taught material from week-1 to my instructors as well as myself.
