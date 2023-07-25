@@ -114,13 +114,13 @@ color: #ffffff;
     color: #ffffff;
 }
 
-.content figure > img {
+.content figure img {
     max-height: 200px;
-    width: auto;
-    height: auto ;
+    width: 150px;
+    height: 150px;
 }
 
-.content figure > h2 {
+.content figure h2 {
 margin-bottom: 20px;
 font-size: 36px;
 }
