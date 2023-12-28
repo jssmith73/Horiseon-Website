@@ -1,14 +1,14 @@
 # WEEK-1-CHALLENGE
 
-## Link https://jssmith73.github.io/Week-1-Challenge/
+## Link https://jssmith73.github.io/Horiseon-Website/
 
 ## Description
 
 
 This is my first week's challenge as part of the UNC Chapel-Hill Coding Bootcamp. A big first step in my new professional development.
-I built this site to show my development base off of taught material from week-1 to my instructors as well as myself.
-This challenge was to incoroporate semantics and more user accessibility to this mock site as well as future projects.
-Various sematics elements and their purpose.
+I built this site to show my progess made based on taught material to my instructors as well as myself.
+This challenge was to incorporate semantics and more user accessibility to this mock site as well as future projects.
+Various semantics elements and their purpose.
 
 ## Table of Contents (Optional)
 
